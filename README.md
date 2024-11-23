@@ -1,1 +1,1 @@
-# licence_plate_detection
+# licence-plate-detection
